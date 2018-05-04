@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: c56dbd72c2ced4351b6f2d9540396dbf
+timeCreated: 1525308881
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Evogria
+  fontNames:
+  - Evogria
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 26cfec9e3a1474f2ab1a385c2f63bdef, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
